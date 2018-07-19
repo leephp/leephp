@@ -1,5 +1,6 @@
 # LeePHP 一个后台程序
 ## 采用ci框架为基础开发
+## 多应用 多入口 支持各种cdn
 - bootstrap
 - mysql
 - redis
